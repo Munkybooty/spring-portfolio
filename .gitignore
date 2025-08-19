@@ -46,5 +46,13 @@ Thumbs.db
 *.h2.db
 *.mv.db
 
+# Oracle ATP wallet
+adb_wallet/
+*.zip
+*.ora
+*.jks
+*.pem
+*.sso
+
 ### Package Managers ###
 node_modules/
